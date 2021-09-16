@@ -1,0 +1,26 @@
+body
+{
+  background-color:white;
+}
+
+.navbar-brand
+{
+  color:white;
+  background-color: rgb(45, 161, 165);
+}
+
+h2
+{
+  color: rgb(45, 161, 165);
+}
+
+h3
+{
+  color: rgb(45, 161, 165);
+}
+
+#center-green
+{
+  color:rgb(45, 161, 165);
+  text-align: center;
+}
