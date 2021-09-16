@@ -5,4 +5,5 @@ compare.html compares the four visualizations<br/>
 data.html has the data in tabular form<br/>
 Pandas-HTML Table is a jupyter notebook for exporting CSV to html<br/>
 styles.css is the CSS sheet<br/>
-Resources contains the images published on the website and the csv file
+Resources contains the images published on the website and the csv file<br/>
+Github Pages Link: https://sabyasachi31.github.io/Web-Design-Challenge/
