@@ -5,8 +5,14 @@ body
 
 .navbar-brand
 {
-  color:white;
+  font-weight:bold;
   background-color: rgb(45, 161, 165);
+  color: white;
+}
+
+h1
+{
+  color: rgb(45, 161, 165);
 }
 
 h2
@@ -23,4 +29,22 @@ h3
 {
   color:rgb(45, 161, 165);
   text-align: center;
+}
+
+img
+{
+  max-width:75%;
+  height:auto;
+
+}
+
+.navbar-toggler
+{
+  background-color: rgb(45, 161, 165);
+}
+
+@media screen and (max-width: 926px) {
+  .container-fluid{
+    background-color: rgb(45, 161, 165);
+  }
 }
